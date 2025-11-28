@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.out
+*.exe
+*.bin
+*.elf
+
+# Backup and temporary files
+*~
+*.swp
+
+# folders
+executables/
